@@ -1,5 +1,6 @@
 {
-  "name": "MovieTimeApp",
+  "hostName": "https://github.com/urupatel/",
+  "name": "movietimeapp",
   "version": "1.0.0",
   "description": "This is an example of JavaScript DOM property.",
   "main": "app.js",
@@ -17,6 +18,6 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/urupatel/MovieTimeApp/issues"
-  },
-  "homepage": "https://github.com/urupatel/MovieTimeApp#index.html"
+  }
+  
 }
