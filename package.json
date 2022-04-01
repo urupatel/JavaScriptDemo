@@ -1,0 +1,22 @@
+{
+  "name": "MovieTimeApp",
+  "version": "1.0.0",
+  "description": "This is an example of JavaScript DOM property.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urupatel/MovieTimeApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urupatel/MovieTimeApp/issues"
+  },
+  "homepage": "https://github.com/urupatel/MovieTimeApp#index.html"
+}
